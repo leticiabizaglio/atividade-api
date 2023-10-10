@@ -1,0 +1,60 @@
+.tudo{
+    background-color: black;
+    display: flex;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.skillname {
+    color: white;
+}
+.displayName{
+    color: white;
+}
+.desc{
+    text-align: center;
+    color: white;
+}
+.joguinhoName{
+    color: white;
+    text-align: center;
+}
+.displayIcon{
+    background-color: black;
+}
+.quasetd{
+    align-items: center;
+    background-color: black;
+    border-radius: 50px;
+    margin: 20px;
+    
+}
+.cardzinho{
+    display: inline-block;
+    width: 70%;
+}
+.img{
+    
+    }
+.habilides{
+    display: flex;
+    text-align: center;
+    margin: 20px;
+}
+.card2{
+    margin-bottom: 40px;
+    background-color:red;
+    text-align: center;
+    max-width: 40%;
+    padding: 50px;
+    border-radius: 10px;
+    display: flex;
+    margin: 30px;
+    box-shadow: white -20px -20px 60px #ffffff;
+    flex-wrap: wrap;
+    width: 100%;
+
+}
